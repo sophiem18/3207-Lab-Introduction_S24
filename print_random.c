@@ -18,7 +18,3 @@ int main()
 
 	return(0);
 }
-char randchar(){
-	int num = (97+rand()%26);
-	return (char)num;
-}
